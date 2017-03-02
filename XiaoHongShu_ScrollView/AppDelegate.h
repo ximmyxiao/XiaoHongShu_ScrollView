@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  XiaoHongShu_ScrollView
+//  testVariableHeightScrollView
 //
-//  Created by Piao Piao on 2017/3/2.
+//  Created by Piao Piao on 2017/2/24.
 //  Copyright © 2017年 Piao Piao. All rights reserved.
 //
 

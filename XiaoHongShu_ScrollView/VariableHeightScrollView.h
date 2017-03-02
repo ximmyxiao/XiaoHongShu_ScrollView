@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  VaribleHeightScrollView.h
 //  testVariableHeightScrollView
 //
 //  Created by Piao Piao on 2017/2/24.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-
+@interface VariableScrollPageView : UIView
+@property(nonatomic,strong) UIImage* image;
 @end
 
+@interface VariableHeightScrollView : UIView
+
+@end

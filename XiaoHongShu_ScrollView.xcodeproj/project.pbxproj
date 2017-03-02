@@ -13,6 +13,16 @@
 		99A018181E67F9F2005784B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99A018161E67F9F2005784B2 /* Main.storyboard */; };
 		99A0181A1E67F9F2005784B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99A018191E67F9F2005784B2 /* Assets.xcassets */; };
 		99A0181D1E67F9F2005784B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99A0181B1E67F9F2005784B2 /* LaunchScreen.storyboard */; };
+		99A018261E67FA81005784B2 /* VariableHeightScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 99A018251E67FA81005784B2 /* VariableHeightScrollView.m */; };
+		99A018301E67FAAA005784B2 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 99A018271E67FAAA005784B2 /* 1.jpg */; };
+		99A018311E67FAAA005784B2 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 99A018281E67FAAA005784B2 /* 2.jpg */; };
+		99A018321E67FAAA005784B2 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 99A018291E67FAAA005784B2 /* 3.jpg */; };
+		99A018331E67FAAA005784B2 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 99A0182A1E67FAAA005784B2 /* 4.jpg */; };
+		99A018341E67FAAA005784B2 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 99A0182B1E67FAAA005784B2 /* 5.jpg */; };
+		99A018351E67FAAA005784B2 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 99A0182C1E67FAAA005784B2 /* 6.jpg */; };
+		99A018361E67FAAB005784B2 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 99A0182D1E67FAAA005784B2 /* 7.jpg */; };
+		99A018371E67FAAB005784B2 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 99A0182E1E67FAAA005784B2 /* 8.jpg */; };
+		99A018381E67FAAB005784B2 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 99A0182F1E67FAAA005784B2 /* 9.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +36,17 @@
 		99A018191E67F9F2005784B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		99A0181C1E67F9F2005784B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		99A0181E1E67F9F2005784B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		99A018241E67FA81005784B2 /* VariableHeightScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VariableHeightScrollView.h; sourceTree = "<group>"; };
+		99A018251E67FA81005784B2 /* VariableHeightScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VariableHeightScrollView.m; sourceTree = "<group>"; };
+		99A018271E67FAAA005784B2 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		99A018281E67FAAA005784B2 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		99A018291E67FAAA005784B2 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		99A0182A1E67FAAA005784B2 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		99A0182B1E67FAAA005784B2 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		99A0182C1E67FAAA005784B2 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		99A0182D1E67FAAA005784B2 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		99A0182E1E67FAAA005784B2 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		99A0182F1E67FAAA005784B2 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +79,17 @@
 		99A0180C1E67F9F2005784B2 /* XiaoHongShu_ScrollView */ = {
 			isa = PBXGroup;
 			children = (
+				99A018271E67FAAA005784B2 /* 1.jpg */,
+				99A018281E67FAAA005784B2 /* 2.jpg */,
+				99A018291E67FAAA005784B2 /* 3.jpg */,
+				99A0182A1E67FAAA005784B2 /* 4.jpg */,
+				99A0182B1E67FAAA005784B2 /* 5.jpg */,
+				99A0182C1E67FAAA005784B2 /* 6.jpg */,
+				99A0182D1E67FAAA005784B2 /* 7.jpg */,
+				99A0182E1E67FAAA005784B2 /* 8.jpg */,
+				99A0182F1E67FAAA005784B2 /* 9.jpg */,
+				99A018241E67FA81005784B2 /* VariableHeightScrollView.h */,
+				99A018251E67FA81005784B2 /* VariableHeightScrollView.m */,
 				99A018101E67F9F2005784B2 /* AppDelegate.h */,
 				99A018111E67F9F2005784B2 /* AppDelegate.m */,
 				99A018131E67F9F2005784B2 /* ViewController.h */,
@@ -110,7 +142,7 @@
 				TargetAttributes = {
 					99A018091E67F9F2005784B2 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = S99AT867TC;
+						DevelopmentTeam = HVRJ9B7ZD4;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -138,7 +170,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				99A018371E67FAAB005784B2 /* 8.jpg in Resources */,
+				99A018351E67FAAA005784B2 /* 6.jpg in Resources */,
 				99A0181D1E67F9F2005784B2 /* LaunchScreen.storyboard in Resources */,
+				99A018341E67FAAA005784B2 /* 5.jpg in Resources */,
+				99A018331E67FAAA005784B2 /* 4.jpg in Resources */,
+				99A018301E67FAAA005784B2 /* 1.jpg in Resources */,
+				99A018311E67FAAA005784B2 /* 2.jpg in Resources */,
+				99A018321E67FAAA005784B2 /* 3.jpg in Resources */,
+				99A018361E67FAAB005784B2 /* 7.jpg in Resources */,
+				99A018381E67FAAB005784B2 /* 9.jpg in Resources */,
 				99A0181A1E67F9F2005784B2 /* Assets.xcassets in Resources */,
 				99A018181E67F9F2005784B2 /* Main.storyboard in Resources */,
 			);
@@ -153,6 +194,7 @@
 			files = (
 				99A018151E67F9F2005784B2 /* ViewController.m in Sources */,
 				99A018121E67F9F2005784B2 /* AppDelegate.m in Sources */,
+				99A018261E67FA81005784B2 /* VariableHeightScrollView.m in Sources */,
 				99A0180F1E67F9F2005784B2 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -273,7 +315,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = S99AT867TC;
+				DEVELOPMENT_TEAM = HVRJ9B7ZD4;
 				INFOPLIST_FILE = XiaoHongShu_ScrollView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "sfs.XiaoHongShu-ScrollView";
@@ -285,7 +327,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = S99AT867TC;
+				DEVELOPMENT_TEAM = HVRJ9B7ZD4;
 				INFOPLIST_FILE = XiaoHongShu_ScrollView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "sfs.XiaoHongShu-ScrollView";
